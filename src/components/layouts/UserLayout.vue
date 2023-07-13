@@ -4,12 +4,13 @@
       <div class="top">
         <div class="header">
           <a href="/">
-            <img src="~@/assets/logo.svg" class="logo" alt="logo">
-            <span class="title">Jeecg Boot</span>
+            <!-- <img src="~@/assets/logo.svg" class="logo" alt="logo"> -->
+            <img src="~@/assets/logo.png" class="logo" alt="logo">
+            <span class="title">冷冰科技</span>
           </a>
         </div>
         <div class="desc">
-          Jeecg Boot 是中国最具影响力的 企业级 低代码平台
+          基于 SpringBoot2 与 Vue2 开发
         </div>
       </div>
 
@@ -22,7 +23,7 @@
           <a href="https://github.com/zhangdaiscott/jeecg-boot/blob/master/LICENSE" target="_blank">条款</a>
         </div>
         <div class="copyright">
-          Copyright &copy; 2019 <a href="http://www.jeecg.com" target="_blank">JEECG开源社区</a> 出品
+          Copyright &copy; 2019 <a href="http://www.lengbingkeji.com" target="_blank">冷冰科技</a> 出品
         </div>
       </div>
     </div>
