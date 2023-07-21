@@ -10,13 +10,14 @@
     name: 'wzlh',
     data(){
       return{
-        msg: ""
+        msg: "",
+        url: "/hlh/wzlh/wztolh"
       }
     },
     methods: {
       hlh(){
-        let url = "/hlh/wzlh/wztolh"
-        getAction(url).then((res) => {
+        //let url = "/hlh/wzlh/wztolh"
+        getAction(this.url).then((res) => {
           if(res.success){
             this.msg = res.result;
           }
