@@ -1,6 +1,7 @@
 <template>
   <div>
-    {{ msg }}
+    {{ msg }}-测试更换IDEA2026
+    <hr/>
     {{ msg }}
   </div>
 </template>
