@@ -1,6 +1,6 @@
 <template>
   <div>
-    {{ msg }}-测试更换IDEA2026
+    {{ msg }}-测试更换IDEA2026-###
     <hr/>
     {{ msg }}
   </div>
